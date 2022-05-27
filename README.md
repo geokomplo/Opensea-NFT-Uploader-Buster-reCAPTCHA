@@ -4,6 +4,8 @@
 
 [![Opensea-NFT-Uploader-Buster-reCAPTCHA](https://img.youtube.com/vi/2KFkmBE-RWA/0.jpg)](https://www.youtube.com/watch?v=2KFkmBE-RWA)
 
+[![Opensea-NFT-Uploader-Buster-reCAPTCHA](https://yt-embed.herokuapp.com/embed?v=2KFkmBE-RWA)](https://www.youtube.com/watch?v=2KFkmBE-RWA "Opensea-NFT-Uploader-Buster-reCAPTCHA")
+
 2. Delete NFT
 Paste your links on each line into the delete-links.txt file and run the delete file.
 
