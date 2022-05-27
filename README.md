@@ -4,6 +4,8 @@ A tool to bulk upload your NFTs. It automatically skips the reCAPTCHA phase with
 
 Watch the video for details.
 
+Telegram : https://t.me/geokomplo
+
 [![Opensea-NFT-Uploader-Buster-reCAPTCHA](https://yt-embed.herokuapp.com/embed?v=2KFkmBE-RWA)](https://www.youtube.com/watch?v=2KFkmBE-RWA "Opensea-NFT-Uploader-Buster-reCAPTCHA")
 
 Forked from maximedrn repo
